@@ -75,7 +75,7 @@ saveRDS(city_data, "city_metrics_23BDS1172.rds")
 
 cat("Dataset generated and saved as city_metrics.csv\n")
 cat("Dataset dimensions:", nrow(city_data), "rows x", ncol(city_data), "columns\n\n")
-
+XS
 # =============================================================================
 # PART 2: COMPLETE LAB ANALYSIS
 # =============================================================================
