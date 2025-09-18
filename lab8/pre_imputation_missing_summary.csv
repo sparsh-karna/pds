@@ -1,0 +1,14 @@
+attribute,missing_count,missing_pct
+id,0,0
+age,0,0
+income,100,4
+num_items,0,0
+visit_duration,87,3.48
+credit_score,75,3
+temperature,0,0
+region,0,0
+membership,50,2
+product_category,0,0
+order_value,0,0
+discount_rate,0,0
+previous_orders,0,0

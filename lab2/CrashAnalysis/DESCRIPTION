@@ -1,0 +1,7 @@
+Package: CrashAnalysis
+Version: 1.0
+Description: Plane crash analysis functions
+Author: Sparsh Karna
+Maintainer: Sparsh Karna sparsh2005karna@gmail.com
+License: MIT
+RoxygenNote: 7.3.2
